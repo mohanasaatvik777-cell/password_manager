@@ -4,12 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "export NODE_OPTIONS=\"--max-old-space-size=4096\" && vite",
-    "build": "export NODE_OPTIONS=\"--max-old-space-size=4096\" && vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "test": "vitest --run"
-  },
+  "dev": "cross-env NODE_OPTIONS=--max-old-space-size=4096 vite",
+  "build": "cross-env NODE_OPTIONS=--max-old-space-size=4096 vite build",
+  "lint": "eslint .",
+  "preview": "vite preview",
+  "test": "vitest --run"
+}
+,
   "dependencies": {
     "react": "19.0.0",
     "react-dom": "19.0.0",

@@ -1,0 +1,232 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "When two passwords are added, then the page should consist of at least two HTML list items and the passwords list should be rendered using a unique key as a prop for each password item",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML image element with alt attribute value as \"app logo\" and src as the given logo URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"Add New Password\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML form element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML image element with alt attribute value as \"website\" and src as the given website image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with the placeholder as \"Enter Website\" and type as \"text\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML image element with alt attribute value as \"username\" and src as the given username image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_8",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with the placeholder as \"Enter Username\" and type as \"text\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_9",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML image element with alt attribute value as \"password\" and src as the given password image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_10",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with the placeholder as \"Enter Password\" and type as \"password\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_11",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with \"Add\" as text content and type as \"submit\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_12",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML image element with alt attribute value as \"password manager\" and src as the given password manager URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_13",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"Your Passwords\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_14",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of an HTML paragraph element to display the count of the passwords with text content as \"0\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_15",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML image element with alt attribute value as \"search\" and src as the given search image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_16",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with type attribute value as \"search\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_17",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with type attribute value as \"checkbox\" and label text as \"Show passwords\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_18",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of an HTML image element with alt attribute value as \"no passwords\" and src as the given no passwords image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_19",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of an HTML paragraph element with text content as \"No Passwords\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_20",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in an HTML input element with the placeholder as \"Enter Website\", then that text should be displayed in the HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_21",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in an HTML input element with the placeholder as \"Enter UserName\", then that text should be displayed in the HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_22",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in an HTML input element with the placeholder as \"Enter Password\", then that text should be displayed in the HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_23",
+      "evaluation_result": "CORRECT",
+      "title": "When values are provided for a website, username, and password and the Add button is clicked, then the page should consist of at least one HTML unordered list element to display the list of password items",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_24",
+      "evaluation_result": "CORRECT",
+      "title": "When values are provided for a website, username, and password and the Add button is clicked, then the page should consist of at least one HTML list item to display the list of password items",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_25",
+      "evaluation_result": "CORRECT",
+      "title": "When values are provided for a website, username, and password and the Add button is clicked, then the page should consist of an HTML paragraph element with text content as website provided",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_26",
+      "evaluation_result": "CORRECT",
+      "title": "When values are provided for a website, username, and password and the Add button is clicked, then the page should consist of an HTML paragraph element with text content as username provided",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_27",
+      "evaluation_result": "CORRECT",
+      "title": "When values are provided for a website, username, and password and the Add button is clicked, then the page should consist of an HTML image element with alt attribute value as \"stars\" and src as the given stars image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_28",
+      "evaluation_result": "CORRECT",
+      "title": "When values are provided for a website, username, and password and the Add button is clicked, then the page should consist of an HTML button element with data-testid as \"delete\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_29",
+      "evaluation_result": "CORRECT",
+      "title": "When values are provided for a website, username, and password and the Add button is clicked, then the page should consist of an HTML image element with alt attribute value as \"delete\" and src as the given delete URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_30",
+      "evaluation_result": "CORRECT",
+      "title": "When a new password is added, then the count of the passwords should be incremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_31",
+      "evaluation_result": "CORRECT",
+      "title": "When a new password is added and \"Show passwords\" is checked, then the page should consist of an HTML paragraph element with text content as password provided",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_32",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in the search input element, then that text should be displayed in the search input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_33",
+      "evaluation_result": "CORRECT",
+      "title": "When new passwords are added and a non-empty value is provided in the search input element, the password items should be filtered irrespective of the case",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_34",
+      "evaluation_result": "CORRECT",
+      "title": "When new passwords are added and a non-empty value is provided in the search input element, and no password item includes the value given in the search input, then the page should consist of an HTML image element with alt attribute value as \"no passwords\" and src as the given no passwords image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_35",
+      "evaluation_result": "CORRECT",
+      "title": "When a new password is added and a non-empty value is provided in the search input element, and no password item includes the value given in the search input, then the page should consist of an HTML paragraph element with text content as \"No Passwords\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_36",
+      "evaluation_result": "CORRECT",
+      "title": "When a new password is added and the delete button of a password item is clicked, then the respective password item should be deleted",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_37",
+      "evaluation_result": "CORRECT",
+      "title": "When a new password is added and the delete button of a password item is clicked, then the page should consist of an HTML image element with alt attribute value as \"no passwords\" and src as the given no passwords image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP2I4R3_TEST_38",
+      "evaluation_result": "CORRECT",
+      "title": "When a new password is added and the delete button of a password item is clicked, then the page should consist of an HTML paragraph element with text content as \"No Passwords\"",
+      "errorMessages": []
+    }
+  ]
+}
